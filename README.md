@@ -1,7 +1,7 @@
 # 🌍 CarbonLedger — Verifiable Carbon-Passports & Negative-Emission Orchestration  
 
-**Author:** [Your Name], SR University, Warangal  
-**Contact:** your.email@example.com | GitHub: https://github.com/sunny61023  
+**Author:** [ SHIVARATRI SUNNY], SR University, Warangal  
+**Contact:** [ 2305a41030@sru.edu.in] GitHub: https://github.com/sunny61023  
 
 ---
 
